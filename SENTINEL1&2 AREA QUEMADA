@@ -1,10 +1,17 @@
 # Tarea4
 
 ##Codigo de sentinel 1##
+
 ###Emascaramiento de nuves###
+
 ###LLamar a la colección###
+
 ###Filtrar por fechas antes y despues del incendia###
+
 ###Reducir Colecciones a Imágenes Únicas###
+
 ###Reducción de Speckle###
+
 ###Análisis de Cambio###
+
 ###Aplicar Umbral y Detectar Zonas Quemadas###
